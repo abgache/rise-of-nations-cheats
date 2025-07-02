@@ -3,6 +3,7 @@ Simple cheat client made in python for RoN (Rise of Nations)
 I only tested it in LAN.
 For the moment it only changes the population limit but i will soon add the ability to change the resources.
 
+Version 0.1.2
 ## How to use it ?
 ### 1st clone the repo :
 ```
