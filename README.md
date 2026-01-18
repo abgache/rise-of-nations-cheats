@@ -10,6 +10,7 @@ Version 0.1.2
 > This repository is not intended to be used for cheating or gaining unfair advantages in multiplayer or competitive environments.  
 > The creator does not condone or encourage the use of this code to violate any terms of service or end-user license agreements.  
 > By using or modifying this code, you accept full responsibility for any consequences that may arise.  
+> (Plz microsoft don't sue me)  
 
 ## How to use it ?  
 ### 1st clone the repo :  
